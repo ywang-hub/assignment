@@ -17,7 +17,6 @@
 **组合平均夏普比率**: 0.64
 
 #### 因子相关系数矩阵
-![多因子相关系数矩阵]
 ![image](https://github.com/user-attachments/assets/1136d90f-b513-4677-917e-6f50bb19e377)
 
 
